@@ -1,5 +1,4 @@
 module Crayons
-error()
 export Crayon, CrayonStack, merge, @crayon_str
 
 include("crayon.jl")
